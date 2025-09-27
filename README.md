@@ -76,7 +76,6 @@ npm run build
 ### Tech Stack
 
 * **Vue.js 3** – reactive framework
-* **Pinia** – state management
 * **Vite** – fast dev/build tool
 * **CSS3** – styles with animations & gradients
 
@@ -144,6 +143,7 @@ You can:
 * Suggest new features
 * Improve the codebase
 * Enhance the documentation
+
 
 
 
