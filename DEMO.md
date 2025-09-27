@@ -139,6 +139,4 @@
 - [ ] Système de trading
 - [ ] Récompenses quotidiennes
 
----
 
-**Le jeu est maintenant prêt à être utilisé ! Amusez-vous bien ! 🍪✨**
