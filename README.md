@@ -1,6 +1,4 @@
-Voici une version plus **humaine, fluide et accrocheuse** de ton texte, tout en gardant les infos clés :
 
----
 
 # 🍪 Cookie Clicker Game
 
@@ -28,7 +26,7 @@ A complete Cookie Clicker–style game built with **Vue.js 3** and **Pinia**, fe
 * Multiple leaderboards: total cookies, clicks, production.
 * **Challenge friends** and view detailed stats.
 
-### 🔧 Admin Panel
+###  Admin Panel
 
 * Manage players: edit scores or reset games.
 * View **global game statistics**.
@@ -42,7 +40,7 @@ A complete Cookie Clicker–style game built with **Vue.js 3** and **Pinia**, fe
 
 ---
 
-## 🛠️ Setup & Usage
+##  Setup & Usage
 
 ### Requirements
 
@@ -149,4 +147,4 @@ You can:
 
 
 
-👉 Veux-tu que je le rende encore plus **court et marketing-friendly** (comme une description GitHub lisible en 30 secondes) ou tu veux garder cette version **détaillée type documentation** ?
+
