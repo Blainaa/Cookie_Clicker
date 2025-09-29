@@ -134,15 +134,7 @@ src/
 * **Responsive design** for mobile, tablet, and desktop.
 
 
-##  Contribution
 
-Contributions welcome!
-You can:
-
-* Report bugs
-* Suggest new features
-* Improve the codebase
-* Enhance the documentation
 
 
 
